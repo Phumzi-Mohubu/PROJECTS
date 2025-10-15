@@ -6,10 +6,15 @@ This repository entails a documentation of my portfolio which showcases all the 
 # List of the projects that i have done so far;
 
 -Redesigning of the Warner Bros Website using HTML and CSS
+
 -Designing and developing a simple relational database in Oracle Live SQL
+
 -Creating a basic grading system using Python
+
 -Datawarehousing with SQL Server and implementation of a python programme that allowed drill down and roll up processes that were achieved using SQL statements.
+
 -Statistical Analysis of the LA Crime Data
+
 - Analysis of customer churn rate for a telecommnications company
 
 I am still learning to become fully proficient in all of these skills above which is also going to help me be indusrty ready.
