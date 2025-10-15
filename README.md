@@ -15,6 +15,6 @@ This repository entails a documentation of my portfolio which showcases all the 
 
 -Statistical Analysis of the LA Crime Data
 
-- Analysis of customer churn rate for a telecommnications company
+-Analysis of customer churn rate for a telecommnications company
 
 I am still learning to become fully proficient in all of these skills above which is also going to help me be indusrty ready.
