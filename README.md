@@ -17,4 +17,4 @@ This repository entails a documentation of my portfolio which showcases all the 
 
 -Analysis of customer churn rate for a telecommnications company
 
-I am still learning to become fully proficient in all of these skills above which is also going to help me be indusrty ready.
+I am still learning to become fully proficient in all of these skills above which is also going to help me be industry ready.
